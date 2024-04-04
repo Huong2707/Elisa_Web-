@@ -1,0 +1,170 @@
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\bin\Debug\giaydepnuna.exe.config
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\bin\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\bin\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.csproj.AssemblyReference.cache
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.Properties.Resources.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.csproj.GenerateResource.cache
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.csproj.CoreCompileInputs.cache
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.Dangnhap.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.HeThong.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.NhanVien.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.PhieuNhap.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.NCC.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.SanPham.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.HoaDon.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.Luong.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna\giaydepnuna\obj\Debug\giaydepnuna.CaiDat.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\bin\Debug\giaydepnuna.exe.config
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\bin\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\bin\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\bin\Debug\stdole.dll
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.csproj.AssemblyReference.cache
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.CaiDat.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.Dangnhap.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.HeThong.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.HoaDon.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.Luong.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.NCC.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.NhanVien.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.PhieuNhap.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.Properties.Resources.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.SanPham.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.csproj.GenerateResource.cache
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.csproj.CoreCompileInputs.cache
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.csproj.CopyComplete
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.GiaoDienBanHang.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.HeThongNV.resources
+D:\Hk1nam3\DALT.NET\giaydepnuna - Copy\giaydepnuna\obj\Debug\giaydepnuna.DoiMKNV.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.exe.config
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\bin\Debug\stdole.dll
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.AssemblyReference.cache
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.CaiDat.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Dangnhap.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.DoiMKNV.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.FormLoad.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.GiaoDienBanHang.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HeThongNV.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Phieunhap.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HeThong.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HoaDon.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Luong.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.NCC.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.NhanVien.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Properties.Resources.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.SanPham.resources
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.GenerateResource.cache
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.CoreCompileInputs.cache
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.CopyComplete
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Test.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.exe.config
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.exe
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.pdb
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\bin\Debug\stdole.dll
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.CaiDat.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Dangnhap.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.DoiMKNV.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.FormLoad.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.GiaoDienBanHang.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HeThongNV.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Phieunhap.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HeThong.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HoaDon.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Luong.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.NCC.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.NhanVien.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Properties.Resources.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.SanPham.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Test.resources
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.CopyComplete
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.exe
+C:\Users\nguye\Downloads\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.pdb
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.exe.config
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.exe
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\bin\Debug\giaydepnuna.pdb
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\bin\Debug\stdole.dll
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.CaiDat.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Dangnhap.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.DoiMKNV.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.FormLoad.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.GiaoDienBanHang.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HeThongNV.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Phieunhap.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HeThong.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.HoaDon.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Luong.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.NCC.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.NhanVien.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.SanPham.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.Test.resources
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.exe
+C:\Users\Dell\OneDrive\Máy tính\DOANCHAMNET\giaydepnunaNew\giaydepnuna\obj\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\giaydepnuna.exe.config
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\giaydepnuna.pdb
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\stdole.dll
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.AssemblyReference.cache
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.CaiDat.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Dangnhap.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.DoiMKNV.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.FormLoad.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.GiaoDienBanHang.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.HeThongNV.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.HeThong.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.HoaDon.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Luong.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.NCC.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.NhanVien.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.PNHang.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Properties.Resources.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.SanPham.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Test.resources
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.GenerateResource.cache
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.CoreCompileInputs.cache
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.CopyComplete
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.exe
+D:\Hk1nam3\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.pdb
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\giaydepnuna.exe.config
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\giaydepnuna.exe
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\giaydepnuna.pdb
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\bin\Debug\stdole.dll
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.AssemblyReference.cache
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.CaiDat.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Dangnhap.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.DoiMKNV.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.FormLoad.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.GiaoDienBanHang.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.HeThongNV.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.HeThong.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.HoaDon.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Luong.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.NCC.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.NhanVien.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.PNHang.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Properties.Resources.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.SanPham.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.Test.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.ThongKe.resources
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.GenerateResource.cache
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.CoreCompileInputs.cache
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.csproj.CopyComplete
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.exe
+E:\EPU\Hk1nam3(Ky5)\DALT.NET\BaoCao\BaoCaoGop\giaydepnuna\obj\Debug\giaydepnuna.pdb
